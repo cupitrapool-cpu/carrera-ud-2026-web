@@ -1,0 +1,1 @@
+Coloca aquí los mapas aprobados: 3k.png, 5k.png y relevos.png. Se aceptan también .jpg, .jpeg y .webp. No se incluyen rutas inventadas.
